@@ -8,4 +8,8 @@ just follow the website https://github.com/MzeroMiko/VMamba to install the envir
 The code training now is just for the cifar-10 dataset.
 Dowlond the data and unzip under this document.
 
-run python3 training.py to train the mamba model.
+
+```bash
+python3 training.py
+```
+to train the mamba model.
